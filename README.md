@@ -1,5 +1,7 @@
-This system does the Feature Management with User context
-## prerequisite
+Feature Management based on User context.
+
+
+## Prerequisite
     Maven (Used as a build tool) 
     If not installed you can follow the guideline in link https://mkyong.com/maven/how-to-install-maven-in-ubuntu/ 
 
@@ -8,7 +10,7 @@ This system does the Feature Management with User context
    
 
 ## To start the program, run
-     java -jar ./java -jar ./target/feature-toggle-1.0.0.jar 
+     java -jar ./target/feature-toggle-1.0.0.jar 
 
 
 ## Tech Stack
