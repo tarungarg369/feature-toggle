@@ -1,0 +1,18 @@
+# Default ignored files
+/.idea/workspace.xml
+*.iml
+*.ipr
+*.iws
+build/
+*.class
+.idea
+.DS_Store
+.idea/
+.idea/libraries/*.xml
+out/
+.java-version
+classes
+target/*
+target
+functional_spec/*
+functional_spec/.rspec_status
